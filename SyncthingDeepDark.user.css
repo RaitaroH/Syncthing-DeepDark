@@ -1,9 +1,9 @@
 /* ==UserStyle==
 @name Syncthing DeepDark
-@namespace github.com/RaitaroH/Syncthing-DeepDark
-@homepageURL https://github.com/RaitaroH/Syncthing-DeepDark
+@namespace gitlab.com/RaitaroH/Syncthing-DeepDark
+@homepageURL https://gitlab.com/RaitaroH/Syncthing-DeepDark
 @version 1.0.2
-@updateURL https://rawgit.com/RaitaroH/Syncthing-DeepDark/master/SyncthingDeepDark.user.css
+@updateURL https://gitlab.com/RaitaroH/Syncthing-DeepDark/raw/master/SyncthingDeepDark.user.css
 @description Sync files as stealth as possible. (Syncthing dark theme)
 @author RaitaroH
 @license GNU-V3.0
@@ -145,7 +145,7 @@
 
 @-moz-document url-prefix("http://127.0.0.1:8384") {
 
-/*Theme made by RaitaroH @https://github.com/RaitaroH/Syncthing-DeepDark*/
+/*Theme made by RaitaroH @https://gitlab.com/RaitaroH/Syncthing-DeepDark*/
 
 /*GNU General Public License v3.0.*/
 
